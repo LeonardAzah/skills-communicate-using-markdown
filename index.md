@@ -1,6 +1,10 @@
 # How Artificial Intelligence (AI) Works
 Artificial intelligence commonly brought to mind the implementation of robots. As technology evolved, previous benchmarks that define artificial intelligence became outdated.
 
+- [x] Learn Python
+- [x] Learn Machine Learning
+- [ ] Deep Learning
+
 ![Image Illustrating Artifitial Intelligence](https://www.investopedia.com/thmb/7unuzQAfu30-qZ8-1y2ty4Z5gCE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg)
 
 ### Technologies that enable artificial intelligence include:
