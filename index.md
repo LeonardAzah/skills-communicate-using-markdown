@@ -20,6 +20,15 @@ Narrow AI: Also known as weak AI, this system is designed to carry out one parti
 
 General AI: This type includes strong artificial intelligence systems that carry on the tasks considered to be human-like. They tend to be more complex and complicated and can be found in applications like self-driving cars or hospital operating rooms.
 
+```python
+class Vehicle:
+    def name(self, name):
+        return name
+
+v = Vehicle()
+print(v.__class__.__name__)
+```
+
 Important
 Super AI is a strictly theoretical type of AI and has not yet been realized. Super AI would think, reason, learn, and possess cognitive abilities that surpass those of human beings.
 
